@@ -30,5 +30,4 @@ public class Retailer {
 	public String test() {
 		return "Guy";
 	}
-	}
 }
