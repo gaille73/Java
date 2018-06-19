@@ -27,7 +27,7 @@ public class Retailer {
 		return taxes_in_percent;
 	}
 	
-	public String() {
+	public String test() {
 		return "Guy";
 	}
 	}
